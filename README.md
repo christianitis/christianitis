@@ -1,2 +1,2 @@
-# I start projects and work on them for about two days before forgetting about them for the rest of time.
+# I start projects and work on them for about two days before forgetting about them and never touching them again
 I like Kotlin.
